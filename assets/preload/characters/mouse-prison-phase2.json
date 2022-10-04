@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MAD MIKI IDLE"
+		},
+		{
+			"offsets": [
+				4,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MAD MIKI LEFT"
+		},
+		{
+			"offsets": [
+				8,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MAD MIKI DOWN"
+		},
+		{
+			"offsets": [
+				-45,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAD MIKI UP"
+		},
+		{
+			"offsets": [
+				-33,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MAD MIKI RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Prisoner_Mickey",
+	"position": [
+		80,
+		420
+	],
+	"healthicon": "mouse-sad",
+	"flip_x": true,
+	"healthbar_colors": [
+		43,
+		46,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 3.90000000000001,
+	"scale": 1.2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SATAN IDLE"
+		},
+		{
+			"offsets": [
+				387,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SATAN LEFT"
+		},
+		{
+			"offsets": [
+				109,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SATAN DOWN"
+		},
+		{
+			"offsets": [
+				253,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SATAN UP"
+		},
+		{
+			"offsets": [
+				-36,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SATAN RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SAD_DEMON",
+	"position": [
+		-360,
+		-400
+	],
+	"healthicon": "satan",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		300,
+		280
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2.6
+}

@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "SAD DEMON IDLE"
+		},
+		{
+			"offsets": [
+				26,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SAD DEMON LEFT"
+		},
+		{
+			"offsets": [
+				4,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SAD DEMON DOWN"
+		},
+		{
+			"offsets": [
+				10,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SAD DEMON UP"
+		},
+		{
+			"offsets": [
+				12,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SAD DEMON RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				454,
+				344
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "SAD DEMON JUJUJUJA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SAD_DEMON",
+	"position": [
+		50,
+		290
+	],
+	"healthicon": "skinnysatan",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		113,
+		113
+	],
+	"camera_position": [
+		-300,
+		-330
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2.6
+}
